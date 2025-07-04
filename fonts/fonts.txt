@@ -1,0 +1,5 @@
+fonts:
+    family: ProductSans
+      fonts:
+        asset: fonts/ProductSans-Bold.ttf
+        asset: fonts/ProductSans-Regular.ttf
